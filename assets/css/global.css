@@ -1,0 +1,33 @@
+* {
+    font-family: 'Roboto', sans-serif;
+    box-sizing: border-box;
+}
+
+*:focus {
+    outline: none;
+}
+
+body {
+    background-image: url('images/background.jpg');
+}
+
+.content {
+    width: 100vw;
+    height: auto;
+    padding: 1rem;
+    background-color: #FFF;
+    box-shadow: 0 0 0.7rem 0 #AE3247;
+}
+
+.content h1 {
+    color: #353E48;
+}
+
+@media screen and (min-width: 900px) {
+    .content {
+        max-width: 900px;
+        max-height: auto;
+        margin: 1rem auto;
+        border-radius: 1rem;
+    }
+}
