@@ -1,24 +1,24 @@
 # Pokédex - Santander Bootcamp 2023
 
-O projeto foi realizado com a ajuda do Software Engineer Renan Johannsen, o qual auxiliou no desenvolvimento do projeto base, e lançou o desefio da DIO de implementarmos os recursos restantes (página de descrição dos Pokemon)
+The project was carried out with the assistance of Software Engineer Renan Johannsen, who helped in the development of the base project and issued the challenge from DIO to implement the remaining features (the Pokémon description page).
 
-## Visão Geral
+## Overview
 
-A Pokédex é uma aplicação web interativa que permite aos usuários explorar e aprender sobre os diversos Pokémon.
+The Pokédex is an interactive web application that allows users to explore and learn about various Pokémon.
 
-## Tecnologias e Ferramentas Utilizadas 
+## Technologies and Tools Used
 
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&color=white) 
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&color=white)
 
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4&color=white)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&color=white)
 
-As imagens e estatísticas dos Pokemon utilizadas foram obtidas através da seguinte API pública:
+The images and statistics of the Pokémon used were obtained through the following public API:
 https://pokeapi.co/
 
-## Visuais do projeto
+## Project Visuals
 
-![Tela Inicial](https://github.com/Edhuylson/pokedex/blob/main/assets/images/index.png)
+![Initial Screen](https://github.com/Edhuylson/pokedex/blob/main/assets/images/index.png)
 
-![Tela de Detalhes](https://github.com/Edhuylson/pokedex/blob/main/assets/images/details.png)
+![Details Screen](https://github.com/Edhuylson/pokedex/blob/main/assets/images/details.png)
