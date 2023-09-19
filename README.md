@@ -1,6 +1,6 @@
 # Pokédex - Santander Bootcamp 2023
 
-The project was carried out with the assistance of Software Engineer Renan Johannsen, who helped in the development of the base project and issued the challenge from DIO to implement the remaining features (the Pokémon description page).
+The project was based on a Dribble layout: https://dribbble.com/shots/6540871-Pokedex-App and was carried out with the assistance of Software Engineer Renan Johannsen, who helped in the development of the base project and issued the challenge from DIO to implement the remaining features (the Pokémon description page).
 
 ## Overview
 
